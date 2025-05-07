@@ -21,7 +21,7 @@ The plan for future weeks is as follows, simply following the chapters of Bhatt'
 **Week 2 - Introductory talk _(Sam)_**
 Background to Bhatt's lecture notes: some remarks on p-adic Hodge theory; the definitions of prisms and relative prismatic cohomology; an introduction to work of Drinfeld and Bhatt-Lurie on the 'stacky' perspective and absolute prismatic cohomology.
 
-**Week 3 - Algebraic de Rham Cohomology, I** 
+**Week 3 - Algebraic de Rham Cohomology, I _(Ken)_** 
 Roughly going over sections 2.1-2.4.
 
 **Week 4 - Algebraic de Rham Cohomology, II** _(Arun)_
