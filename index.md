@@ -3,11 +3,11 @@ layout: home
 ---
 
 
-<img src = "assets/images/samhomepage.jpg" width="200px" align = "right" alt = "photo of me" padding = "10"> 
+<img src = "assets/images/samhomepage.jpg" width="200px" align = "right" alt = "photo of me" padding = "20"> 
 
 ## About
 
-I am a second year DPhil student at the University of Oxford in Mathematics, supervised by Lukas Brantner. 
+I am a third year DPhil student at the University of Oxford in Mathematics, supervised by Lukas Brantner. 
 
 I am mostly interested in homotopy theory and derived algebraic geometry, especially in mixed or positive characteristic.
 
