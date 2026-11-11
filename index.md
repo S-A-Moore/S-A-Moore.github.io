@@ -27,7 +27,7 @@ We study the period map from infinitesimal deformations of a qcqs derived scheme
 
 ## Talks
 
-<strong> Derived deformations of schemes and \(\infty\)-categories </strong> Warwick Junior Algebra seminar (Oct. '26); Oxford Algebraic and Symplectic Geometry seminar (Feb. '26); Cambridge Junior Geometry seminar (Feb. '26)
+<strong> Derived deformations of schemes and </strong> \(\infty\)<strong>-categories </strong> Warwick Junior Algebra seminar (Oct. '26); Oxford Algebraic and Symplectic Geometry seminar (Feb. '26); Cambridge Junior Geometry seminar (Feb. '26)
 
 ## Contact
 
